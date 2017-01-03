@@ -20,7 +20,6 @@ public class ArticleDetailFragment_ViewBinding<T extends ArticleDetailFragment> 
     this.target = target;
 
     target.mScrollView = Utils.findRequiredViewAsType(source, R.id.scrollview, "field 'mScrollView'", ObservableScrollView.class);
-    target.mDrawInsetsFrameLayout = Utils.findRequiredViewAsType(source, R.id.draw_insets_frame_layout, "field 'mDrawInsetsFrameLayout'", DrawInsetsFrameLayout.class);
     target.mPhotoContainerView = Utils.findRequiredView(source, R.id.photo_container, "field 'mPhotoContainerView'");
     target.mPhotoView = Utils.findRequiredViewAsType(source, R.id.photo, "field 'mPhotoView'", ImageView.class);
     target.titleView = Utils.findRequiredViewAsType(source, R.id.article_title, "field 'titleView'", TextView.class);
@@ -35,7 +34,6 @@ public class ArticleDetailFragment_ViewBinding<T extends ArticleDetailFragment> 
     if (target == null) throw new IllegalStateException("Bindings already cleared.");
 
     target.mScrollView = null;
-    target.mDrawInsetsFrameLayout = null;
     target.mPhotoContainerView = null;
     target.mPhotoView = null;
     target.titleView = null;

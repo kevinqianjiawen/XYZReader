@@ -38,7 +38,6 @@ public class ArticleDetailActivity extends ActionBarActivity
     private int mTopInset;
 
     @BindView(R.id.pager) ViewPager mPager;
-    //private ViewPager mPager;
     private MyPagerAdapter mPagerAdapter;
     @BindView(R.id.up_container) View mUpButtonContainer;
     @BindView(R.id.action_up) View mUpButton;

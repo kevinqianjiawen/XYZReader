@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jan 03 15:14:00 EST 2017
+#Tue Jan 03 15:24:00 EST 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable/abc_btn_borderless_material.xml
 14.set=ANDROID_RESOURCE
