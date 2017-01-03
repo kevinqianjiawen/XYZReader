@@ -10,4 +10,6 @@
 
 
     <dimen name="floating_action_button_elevation">4dp</dimen>
+
+    <dimen name="app_bar_default_elevation">4dp</dimen>
 </resources>

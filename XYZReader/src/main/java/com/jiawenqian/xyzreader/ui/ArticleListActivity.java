@@ -47,12 +47,6 @@ public class ArticleListActivity extends ActionBarActivity implements
         ButterKnife.bind(this);
 
 
-
-        final View toolbarContainerView = findViewById(R.id.toolbar_container);
-
-
-
-
         getLoaderManager().initLoader(0, null, this);
 
         if (savedInstanceState == null) {
