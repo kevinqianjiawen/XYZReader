@@ -1,0 +1,7 @@
+#Tue Jan 03 14:19:45 EST 2017
+base.0=/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b777f80905f97b05fcde1ed544a51bb7e4970905
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5f0e7de60296868cf36cd241f304d4eaae64892/classes.dex
+base.1=/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5f0e7de60296868cf36cd241f304d4eaae64892
+file.0=/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b777f80905f97b05fcde1ed544a51bb7e4970905/classes.dex

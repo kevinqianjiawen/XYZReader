@@ -16,8 +16,17 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="04418476bc104b7c7ae96528a918d2e8db3de090">
+        sha1="6ea05957cd1a3c143f43fbcbe6e6e1a0e5f8eaa5">
         <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5f0e7de60296868cf36cd241f304d4eaae64892/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_6e645939d6233e5c6649fe890bebe7ca0a1efc37/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -27,6 +36,15 @@
         revision="22.0.1"
         sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
         <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_548dcdb092b75e19cdcfc2b0b97e0d9c90cb9b45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_4b7d22a88885c92b66b9004645d858db94fed572/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -43,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="5d924f10d4334dae1832ece27a275065ddf84e7b">
+        sha1="2ab5e1539eb2d0910afd975611809a036bcf57ea">
         <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b777f80905f97b05fcde1ed544a51bb7e4970905/classes.dex" />
     </item>
     <item

@@ -9,6 +9,7 @@ import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v13.app.FragmentStatePagerAdapter;
+
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarActivity;
 import android.util.TypedValue;
@@ -19,6 +20,9 @@ import android.view.WindowInsets;
 import com.jiawenqian.xyzreader.R;
 import com.jiawenqian.xyzreader.data.ArticleLoader;
 import com.jiawenqian.xyzreader.data.ItemsContract;
+
+import butterknife.BindView;
+import butterknife.ButterKnife;
 
 /**
  * An activity representing a single Article detail screen, letting you swipe between articles.
@@ -33,10 +37,12 @@ public class ArticleDetailActivity extends ActionBarActivity
     private int mSelectedItemUpButtonFloor = Integer.MAX_VALUE;
     private int mTopInset;
 
-    private ViewPager mPager;
+    @BindView(R.id.pager) ViewPager mPager;
+    //private ViewPager mPager;
     private MyPagerAdapter mPagerAdapter;
-    private View mUpButtonContainer;
-    private View mUpButton;
+    @BindView(R.id.up_container) View mUpButtonContainer;
+    @BindView(R.id.action_up) View mUpButton;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,6 +53,7 @@ public class ArticleDetailActivity extends ActionBarActivity
                             View.SYSTEM_UI_FLAG_LAYOUT_STABLE);
         }
         setContentView(R.layout.activity_article_detail);
+        ButterKnife.bind(this);
 
         getLoaderManager().initLoader(0, null, this);
 
@@ -77,9 +84,8 @@ public class ArticleDetailActivity extends ActionBarActivity
             }
         });
 
-        mUpButtonContainer = findViewById(R.id.up_container);
 
-        mUpButton = findViewById(R.id.action_up);
+
         mUpButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
