@@ -2075,6 +2075,27 @@
                         "endOffset": 20962
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 21090,
+                    "endLine": 292,
+                    "endColumn": 12,
+                    "endOffset": 21283
+                },
+                "from": {
+                    "file": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 248
+                    }
+                }
             }
         ]
     }

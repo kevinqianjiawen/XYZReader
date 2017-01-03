@@ -5,40 +5,33 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="284868065664107"
+    timestamp="286389520204895"
     token="-7928180844072971254"
-    verifier="CLASS_ADDED" >
+    verifier="BINARY_MANIFEST_FILE_CHANGE" >
 
     <task
         name="javac"
-        duration="820" />
+        duration="645" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="34" />
+        duration="167" />
     <task
         name="verifier"
-        duration="3" />
+        duration="24" />
 
     <artifact
-        location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-        type="DEX" />
+        location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="283105689148461"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="286389520204895"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="284868065664107"
-        verifier="CLASS_ADDED" >
-        <artifact
-            location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
