@@ -5,7 +5,7 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="256674260481721"
+    timestamp="257667676251899"
     token="-6420279335398144336"
     verifier="COMPATIBLE" >
 
@@ -51,7 +51,7 @@
             type="DEX" />
     </build>
     <build
-        timestamp="256674260481721"
+        timestamp="257667676251899"
         verifier="COMPATIBLE" >
         <artifact
             location="/Users/painter/Documents/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
