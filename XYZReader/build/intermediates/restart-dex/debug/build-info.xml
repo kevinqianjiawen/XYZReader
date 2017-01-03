@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="256674260481721"
+    token="-6420279335398144336"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/painter/Documents/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="255519456546684"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/painter/Documents/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="256419562294617"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/painter/Documents/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="256592983914574"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/painter/Documents/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/painter/Documents/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="256674260481721"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/painter/Documents/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

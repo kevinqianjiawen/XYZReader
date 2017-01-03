@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="1561d7666addc720ff3bec5d3ce00812664fb1ee">
+        sha1="7e2f74d24538e2d2cef8c33f802d1e3d4ceac0a2">
         <dex dex="/Users/painter/Documents/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fbc1f9f2fe98a400498d2caf3a6f811fbbe212d3/classes.dex" />
     </item>
     <item
@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="b38478f9700e33f9f9675f57305df622852a39ed">
+        sha1="ccecee6157c3ee98dcb8cf90b62aad94df16e58b">
         <dex dex="/Users/painter/Documents/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_021a6859e7a90d1f495e5110711541a96c44a94b/classes.dex" />
     </item>
     <item
