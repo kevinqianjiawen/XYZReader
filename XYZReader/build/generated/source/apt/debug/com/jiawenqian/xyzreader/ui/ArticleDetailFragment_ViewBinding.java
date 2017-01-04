@@ -4,7 +4,6 @@ package com.jiawenqian.xyzreader.ui;
 import android.support.annotation.CallSuper;
 import android.support.annotation.UiThread;
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.TextView;
 import butterknife.Unbinder;
 import butterknife.internal.Utils;
@@ -19,9 +18,7 @@ public class ArticleDetailFragment_ViewBinding<T extends ArticleDetailFragment> 
   public ArticleDetailFragment_ViewBinding(T target, View source) {
     this.target = target;
 
-    target.mScrollView = Utils.findRequiredViewAsType(source, R.id.scrollview, "field 'mScrollView'", ObservableScrollView.class);
-    target.mPhotoContainerView = Utils.findRequiredView(source, R.id.photo_container, "field 'mPhotoContainerView'");
-    target.mPhotoView = Utils.findRequiredViewAsType(source, R.id.photo, "field 'mPhotoView'", ImageView.class);
+    target.mPhotoView = Utils.findRequiredViewAsType(source, R.id.photo, "field 'mPhotoView'", DynamicHeightNetworkImageView.class);
     target.titleView = Utils.findRequiredViewAsType(source, R.id.article_title, "field 'titleView'", TextView.class);
     target.bylineView = Utils.findRequiredViewAsType(source, R.id.article_byline, "field 'bylineView'", TextView.class);
     target.bodyView = Utils.findRequiredViewAsType(source, R.id.article_body, "field 'bodyView'", TextView.class);
@@ -33,8 +30,6 @@ public class ArticleDetailFragment_ViewBinding<T extends ArticleDetailFragment> 
     T target = this.target;
     if (target == null) throw new IllegalStateException("Bindings already cleared.");
 
-    target.mScrollView = null;
-    target.mPhotoContainerView = null;
     target.mPhotoView = null;
     target.titleView = null;
     target.bylineView = null;

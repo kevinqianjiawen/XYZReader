@@ -5,61 +5,59 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="286990300511034"
+    timestamp="293029062491868"
     token="-7928180844072971254"
-    verifier="STATIC_INITIALIZER_CHANGE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="610" />
+        duration="1856" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="31" />
+        duration="35" />
     <task
         name="verifier"
-        duration="19" />
+        duration="2" />
 
-    <artifact
-        location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-        type="DEX" />
     <artifact
         location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
         type="DEX" />
 
     <build
-        timestamp="286389520204895"
-        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        timestamp="287837396171801"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="286990300511034"
-        verifier="STATIC_INITIALIZER_CHANGE" >
+        timestamp="291476751776954"
+        verifier="CLASS_ADDED" >
         <artifact
             location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
         <artifact
+            location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
             location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
             type="DEX" />
         <artifact
             location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
             type="DEX" />
         <artifact
-            location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_3ca71330e0047273548d4b0c6d9c4c0abf1c3cc0/classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="293029062491868"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
             type="DEX" />

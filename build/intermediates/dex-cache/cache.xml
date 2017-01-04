@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="6ea05957cd1a3c143f43fbcbe6e6e1a0e5f8eaa5">
+        sha1="d9f19375df0538333b2214598b81cd04b148e4a8">
         <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5f0e7de60296868cf36cd241f304d4eaae64892/classes.dex" />
     </item>
     <item
@@ -72,6 +72,15 @@
         revision="22.0.1"
         sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
         <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_6e645939d6233e5c6649fe890bebe7ca0a1efc37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_3ca71330e0047273548d4b0c6d9c4c0abf1c3cc0/classes.dex" />
     </item>
     <item
         is-multidex="true"

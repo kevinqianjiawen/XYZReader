@@ -1,4 +1,4 @@
-#Tue Jan 03 15:14:10 EST 2017
+#Tue Jan 03 15:38:11 EST 2017
 base.0=/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b777f80905f97b05fcde1ed544a51bb7e4970905
 renamed.1=classes.dex
 renamed.0=classes2.dex

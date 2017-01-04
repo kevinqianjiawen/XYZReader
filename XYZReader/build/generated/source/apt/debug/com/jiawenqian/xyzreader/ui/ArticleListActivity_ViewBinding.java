@@ -20,7 +20,7 @@ public class ArticleListActivity_ViewBinding<T extends ArticleListActivity> impl
   public ArticleListActivity_ViewBinding(T target, View source) {
     this.target = target;
 
-    target.mToolBar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'mToolBar'", Toolbar.class);
+    target.mToolbar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'mToolbar'", Toolbar.class);
     target.mSwipeRefreshLayout = Utils.findRequiredViewAsType(source, R.id.swipe_refresh_layout, "field 'mSwipeRefreshLayout'", SwipeRefreshLayout.class);
     target.mRecyclerView = Utils.findRequiredViewAsType(source, R.id.recycler_view, "field 'mRecyclerView'", RecyclerView.class);
   }
@@ -31,7 +31,7 @@ public class ArticleListActivity_ViewBinding<T extends ArticleListActivity> impl
     T target = this.target;
     if (target == null) throw new IllegalStateException("Bindings already cleared.");
 
-    target.mToolBar = null;
+    target.mToolbar = null;
     target.mSwipeRefreshLayout = null;
     target.mRecyclerView = null;
 

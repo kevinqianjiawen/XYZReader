@@ -52,7 +52,7 @@ MERGED from [com.android.support:support-compat:25.1.0] /Users/painter/Documents
 	android:icon
 		ADDED from /Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/src/main/AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from /Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-40
 activity#com.jiawenqian.xyzreader.ui.ArticleListActivity
 ADDED from /Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
 	android:label

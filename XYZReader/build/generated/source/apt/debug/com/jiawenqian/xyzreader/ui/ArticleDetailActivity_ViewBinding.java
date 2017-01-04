@@ -19,8 +19,6 @@ public class ArticleDetailActivity_ViewBinding<T extends ArticleDetailActivity> 
     this.target = target;
 
     target.mPager = Utils.findRequiredViewAsType(source, R.id.pager, "field 'mPager'", ViewPager.class);
-    target.mUpButtonContainer = Utils.findRequiredView(source, R.id.up_container, "field 'mUpButtonContainer'");
-    target.mUpButton = Utils.findRequiredView(source, R.id.action_up, "field 'mUpButton'");
   }
 
   @Override
@@ -30,8 +28,6 @@ public class ArticleDetailActivity_ViewBinding<T extends ArticleDetailActivity> 
     if (target == null) throw new IllegalStateException("Bindings already cleared.");
 
     target.mPager = null;
-    target.mUpButtonContainer = null;
-    target.mUpButton = null;
 
     this.target = null;
   }
