@@ -1,7 +1,7 @@
 <resources>
     <!-- detail -->
     <dimen name="detail_title_text_size">32sp</dimen>
-    <dimen name="detail_body_text_size">22sp</dimen>
+    <dimen name="detail_body_text_size">20sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
     <dimen name="fab_elevation">2dp</dimen>
@@ -17,4 +17,11 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
 
     <dimen name="toolbar_text_margin">3dp</dimen>
+
+
+    <dimen name="material_component_cards_left_and_right_padding">16dp</dimen>
+    <dimen name="material_component_cards_top_and_bottom_padding">16dp</dimen>
+    <dimen name="material_component_cards_padding_from_edge_of_screen_to_card">4dp</dimen>
+    <dimen name="material_component_cards_space_between_cards">4dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
 </resources>

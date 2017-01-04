@@ -3,6 +3,7 @@ package com.jiawenqian.xyzreader.ui;
 
 import android.support.annotation.CallSuper;
 import android.support.annotation.UiThread;
+import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.TextView;
@@ -24,6 +25,7 @@ public class ArticleDetailFragment_ViewBinding<T extends ArticleDetailFragment> 
     target.titleView = Utils.findRequiredViewAsType(source, R.id.article_title, "field 'titleView'", TextView.class);
     target.bylineView = Utils.findRequiredViewAsType(source, R.id.article_byline, "field 'bylineView'", TextView.class);
     target.bodyView = Utils.findRequiredViewAsType(source, R.id.article_body, "field 'bodyView'", TextView.class);
+    target.toolbar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'toolbar'", Toolbar.class);
   }
 
   @Override
@@ -37,6 +39,7 @@ public class ArticleDetailFragment_ViewBinding<T extends ArticleDetailFragment> 
     target.titleView = null;
     target.bylineView = null;
     target.bodyView = null;
+    target.toolbar = null;
 
     this.target = null;
   }

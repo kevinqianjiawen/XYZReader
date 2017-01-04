@@ -28,12 +28,9 @@ public class DynamicHeightNetworkImageView extends AppCompatImageView {
 
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
-     /*   super.onMeasure(widthMeasureSpec, heightMeasureSpec);
+       super.onMeasure(widthMeasureSpec, heightMeasureSpec);
         int measuredWidth = getMeasuredWidth();
-        setMeasuredDimension(measuredWidth, (int) (measuredWidth / mAspectRatio));*/
-        int threeTwoHeight = MeasureSpec.getSize(widthMeasureSpec) * 2 / 3;
+        setMeasuredDimension(measuredWidth, (int) (measuredWidth / mAspectRatio));
 
-        int threeTwoHeightSpec = MeasureSpec.makeMeasureSpec(threeTwoHeight, MeasureSpec.EXACTLY);
-        super.onMeasure(widthMeasureSpec, threeTwoHeightSpec);
     }
 }

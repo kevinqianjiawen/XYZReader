@@ -3,6 +3,87 @@
 
     <item
         is-multidex="true"
+        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_42a7211d956a57137ae20ad8daa260053c4579ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="93621ee09b6c558c343ff6b036e283de4d9ee580">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5f0e7de60296868cf36cd241f304d4eaae64892/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_6e645939d6233e5c6649fe890bebe7ca0a1efc37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_548dcdb092b75e19cdcfc2b0b97e0d9c90cb9b45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_4b7d22a88885c92b66b9004645d858db94fed572/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_3e2283ad8131cb2f1e986b7236acd031432ed80f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2ab5e1539eb2d0910afd975611809a036bcf57ea">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b777f80905f97b05fcde1ed544a51bb7e4970905/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_bd5d9f559c1f27b91aec3b1644078d6a147bf918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/painter/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_3e76b8c56074d7c1b6e89e73abda9764259d9464/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -30,24 +111,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
-        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_42a7211d956a57137ae20ad8daa260053c4579ec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d9f19375df0538333b2214598b81cd04b148e4a8">
-        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5f0e7de60296868cf36cd241f304d4eaae64892/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -66,30 +129,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/painter/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_6e645939d6233e5c6649fe890bebe7ca0a1efc37/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/painter/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
         sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
         <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_3ca71330e0047273548d4b0c6d9c4c0abf1c3cc0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_548dcdb092b75e19cdcfc2b0b97e0d9c90cb9b45/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,39 +147,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
-        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_4b7d22a88885c92b66b9004645d858db94fed572/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
         <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_6d4f8e347100ce6a2cc46fba69d118450f0682a5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_3e2283ad8131cb2f1e986b7236acd031432ed80f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="2ab5e1539eb2d0910afd975611809a036bcf57ea">
-        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b777f80905f97b05fcde1ed544a51bb7e4970905/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -171,24 +189,6 @@
         revision="22.0.1"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
         <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_bb49e0573639d3b76145d979759a071811259339/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_bd5d9f559c1f27b91aec3b1644078d6a147bf918/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/painter/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
-        <dex dex="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_3e76b8c56074d7c1b6e89e73abda9764259d9464/classes.dex" />
     </item>
     <item
         is-multidex="true"
