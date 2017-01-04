@@ -5,7 +5,7 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="2866974194918"
+    timestamp="5673880155192"
     token="-7928180844072971254"
     verifier="COMPATIBLE" >
 
@@ -34,7 +34,7 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="2700642121164"
+        timestamp="3714800981077"
         verifier="R_CLASS_CHANGE" >
         <artifact
             location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
@@ -47,7 +47,14 @@
             type="DEX" />
     </build>
     <build
-        timestamp="2866974194918"
+        timestamp="5515425661784"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="5673880155192"
         verifier="COMPATIBLE" >
         <artifact
             location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
