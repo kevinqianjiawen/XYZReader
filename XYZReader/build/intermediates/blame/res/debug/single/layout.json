@@ -24,12 +24,12 @@
         "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/list_item_article.xml",
-        "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/src/main/res/layout/list_item_article.xml"
-    },
-    {
         "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/list_item_article.xml",
+        "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/src/main/res/layout/list_item_article.xml"
     },
     {
         "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
@@ -92,16 +92,16 @@
         "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
-    },
-    {
         "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item.xml"
     },
     {
         "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
         "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -112,20 +112,20 @@
         "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
-    },
-    {
         "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+        "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
         "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
