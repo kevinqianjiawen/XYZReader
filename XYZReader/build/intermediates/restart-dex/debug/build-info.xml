@@ -5,26 +5,26 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="293029062491868"
+    timestamp="295062847221415"
     token="-7928180844072971254"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1856" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="35" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-        type="DEX" />
+        location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         timestamp="287837396171801"
@@ -36,9 +36,6 @@
     <build
         timestamp="291476751776954"
         verifier="CLASS_ADDED" >
-        <artifact
-            location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
         <artifact
             location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
             type="DEX" />
@@ -56,11 +53,18 @@
             type="DEX" />
     </build>
     <build
-        timestamp="293029062491868"
+        timestamp="294914868815827"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="295062847221415"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/painter/Documents/MyOwnProject/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

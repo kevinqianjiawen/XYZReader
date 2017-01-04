@@ -19,6 +19,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import com.android.volley.VolleyError;
@@ -52,7 +53,8 @@ public class ArticleDetailFragment extends Fragment implements
     private boolean mIsCard = false;
 
     @BindView(R.id.photo) DynamicHeightNetworkImageView mPhotoView;
-
+    @BindView(R.id.share_fab)
+    ImageButton mShareFav;
     @BindView(R.id.article_title) TextView titleView;
     @BindView(R.id.article_byline) TextView bylineView;
     @BindView(R.id.article_body) TextView bodyView;
@@ -111,7 +113,7 @@ public class ArticleDetailFragment extends Fragment implements
         //mPhotoContainerView = mRootView.findViewById(R.id.photo_container);
 
 
-        mRootView.findViewById(R.id.share_fab).setOnClickListener(new View.OnClickListener() {
+        mShareFav.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 startActivity(Intent.createChooser(ShareCompat.IntentBuilder.from(getActivity())
